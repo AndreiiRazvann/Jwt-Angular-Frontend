@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jwtapp"
+    }
+  },
+  "defaultProject": "jwtapp",
+  "cli": {
+    "analytics": false
+  }
 }
